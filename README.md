@@ -274,7 +274,7 @@ Open `notebooks/echoes_colab.ipynb` with GPU runtime:
 
 ```bash
 # On your RunPod instance
-git clone https://github.com/yourusername/echoes.git
+git clone https://github.com/prince4115/Echoes---A-Voice-Clonning-API.git
 cd echoes
 pip install -r requirements.txt
 uvicorn app:app --host 0.0.0.0 --port 8000
