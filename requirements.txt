@@ -1,0 +1,24 @@
+# Echoes — Voice Cloning API
+# Python 3.10+ required
+
+# Voice cloning
+coqui-tts
+
+# API framework
+fastapi==0.136.1
+uvicorn==0.47.0
+python-multipart
+
+# Audio processing
+librosa==0.11.0
+soundfile
+noisereduce
+numpy
+
+# Utilities
+python-dotenv
+requests
+
+# Cloud deployment
+pyngrok
+nest-asyncio
